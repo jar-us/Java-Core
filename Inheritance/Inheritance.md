@@ -1,21 +1,21 @@
-Classes, SuperClasses and Subclasses.
-    Defining Subclasses
-    Overriding Methods
-    Subclass Constructors
-    Inheritance Hierarchies
-    Polymorphism
-    Understanding Method Calls
-    Preventing Inheritance: Final Classes and Methods
-    Casting
-    Abstract Classes
-    Protected Access
+#### Classes, SuperClasses and Subclasses.
+* `Defining Subclasses`
+* `Overriding Methods`
+* `Subclass Constructors`
+* `Inheritance Hierarchies`
+* `Polymorphism`
+* `Understanding Method Calls`
+* `Preventing Inheritance: Final Classes and Methods`
+* `Casting`
+* `Abstract Classes`
+* `Protected Access`
 
 Object: The Cosmic SuperClass
-    Variables of Type Object
-    The equals Methods
-    Equality Testing and Inheritance
-    The hashCode Method
-    The toString Method
+Variables of Type Object
+The equals Methods
+Equality Testing and Inheritance
+The hashCode Method
+The toString Method
 
 Generic Array Lists
     Declaring Array Lists
